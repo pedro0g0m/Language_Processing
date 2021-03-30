@@ -1,0 +1,25 @@
+lt 20
+fd 12
+back 500
+setx 46
+setpencolor [255 30 0]
+right 45
+forward 200
+lt 200
+bk 10
+back 500
+left 180
+rt 30
+right 45
+setpos 100 100
+setpos [ 400 200 ]
+setxy 200 200
+setxy [ 500 100 ]
+setx 46
+sety 30
+home
+pendown
+penup
+pd
+pu
+
